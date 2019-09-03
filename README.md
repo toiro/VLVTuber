@@ -32,6 +32,7 @@ Unity 2018.2.21f1 で動作確認しています。2018.3 以降でも動くは�
 以下の Asset が必要です。
 - [FinalIK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290)
 - [Vive Input Utility](https://github.com/ViveSoftware/ViveInputUtility-Unity)
+- [UniVRM](https://github.com/vrm-c/UniVRM)
 - [Oculus Lipsync Unity](https://developer.oculus.com/downloads/package/oculus-lipsync-unity)
 - [AniLipSync](https://github.com/XVI/AniLipSync)
 - [DebugUi](https://github.com/hiryma/UnitySamples/tree/master/DebugUi)
