@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329dca3bf78fcdd42b2df941673db76f, type: 3}
+  m_Name: AliciaBlendShapeAvater
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 11400000, guid: 68f49adf760582344b8a050cb151fad8, type: 2}
+  - {fileID: 11400000, guid: bac0896c03cc84446a091aa1a8c57ca2, type: 2}
+  - {fileID: 11400000, guid: 95743dc5d063ba1469df8b63f6e79c21, type: 2}
+  - {fileID: 11400000, guid: 8017d9e23551fa848abfa84657fc86e9, type: 2}
+  - {fileID: 11400000, guid: 08992396053e32641bc160676e489358, type: 2}
+  - {fileID: 11400000, guid: 8248213263ce69145a93335a1cc15240, type: 2}
+  - {fileID: 11400000, guid: e0295da550459cb41bd7a5dfb8e4d2be, type: 2}
+  - {fileID: 11400000, guid: 8232de20278ca994f99971f10a3d7b68, type: 2}
+  - {fileID: 11400000, guid: 2d9a2a89216e09e43a3cc047e3f123a3, type: 2}
+  - {fileID: 11400000, guid: d09560a3ae266b541b34e60afe20e1e6, type: 2}
+  - {fileID: 11400000, guid: 2cdc0ea32fb2d5444ba76cb45873f84a, type: 2}
+  - {fileID: 11400000, guid: 2ae6595a259cb4846819b51303df826d, type: 2}
+  - {fileID: 11400000, guid: 244cbc0a52055f64bb27be855708493e, type: 2}
+  - {fileID: 11400000, guid: c7c60a3756643084eb1daed6b7c688a7, type: 2}
+  - {fileID: 11400000, guid: c310803995274f44cb828a2fb2d29fba, type: 2}
+  - {fileID: 11400000, guid: e973d99efad812348bf980c0819a33da, type: 2}
+  - {fileID: 11400000, guid: 87cf7e2ec73d6d74c87d19ab86977207, type: 2}
+  - {fileID: 11400000, guid: d4b00f91308fe7943aa4b599dd9eeff1, type: 2}

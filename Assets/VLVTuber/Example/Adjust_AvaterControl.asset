@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 964157c61a57f2145ab758e62179ae61, type: 3}
+  m_Name: Adjust_AvaterControl
+  m_EditorClassIdentifier: 
+  Value:
+    VRHeightScale: 0.87
+    VRArmScale: 1
+    AvatarScale: 1
+    TrackingOffset:
+      HMD:
+        positionOffset: {x: 0, y: -0.08, z: -0.05}
+        rotationOffset: {x: -90, y: 0, z: 0}
+      Head:
+        positionOffset: {x: 0, y: 0, z: 0}
+        rotationOffset: {x: 3.275098, y: 17.208412, z: 190.46216}
+      Pelvis:
+        positionOffset: {x: 0, y: 0, z: -0.1}
+        rotationOffset: {x: 0, y: 180, z: 180}
+      LeftHand:
+        positionOffset: {x: 0, y: -0.05, z: -0.1}
+        rotationOffset: {x: 0, y: 0, z: 0}
+      RightHand:
+        positionOffset: {x: 0, y: -0.05, z: -0.1}
+        rotationOffset: {x: 0, y: 180, z: -90}
+      LeftFoot:
+        positionOffset: {x: 0, y: 0, z: 0}
+        rotationOffset: {x: 0, y: 0, z: 0}
+      RightFoot:
+        positionOffset: {x: 0, y: 0, z: 0}
+        rotationOffset: {x: 0, y: 0, z: 0}
+    KneeBending: {x: 5, y: 0, z: 0}

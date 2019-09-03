@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 462a30e562d406241b0f88da8c156a02, type: 3}
+  m_Name: HandR_Index
+  m_EditorClassIdentifier: 
+  Values:
+  - Path: thumb0_R
+    Value:
+      Position: {x: -0.008030471, y: -0.015704226, z: 0.010159207}
+      Rotation: {x: 0.17153426, y: -0.15974656, z: 0.33390594, w: 0.9129972}
+      Scale: {x: 0.9999998, y: 1.0000001, z: 1}
+  - Path: thumb0_R/thumb1_R
+    Value:
+      Position: {x: -0.000000038146972, y: 0.000000076293944, z: 0.032389905}
+      Rotation: {x: -0.4511585, y: 0.025422143, z: -0.025070593, w: 0.89172935}
+      Scale: {x: 1.0000001, y: 1, z: 1.0000002}
+  - Path: thumb0_R/thumb1_R/thumb2_R
+    Value:
+      Position: {x: -0.000000076293944, y: 0, z: 0.021306152}
+      Rotation: {x: -0.42261827, y: 0, z: 0, w: 0.9063079}
+      Scale: {x: 1, y: 0.99999994, z: 1.0000001}
+  - Path: third1_R
+    Value:
+      Position: {x: 0.0025170136, y: 0.011380888, z: 0.05264719}
+      Rotation: {x: -0.03394593, y: -0.5910034, z: 0.0914061, w: 0.80075437}
+      Scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+  - Path: third1_R/third2_R
+    Value:
+      Position: {x: 0.000000076293944, y: 0.000000019073486, z: 0.023841552}
+      Rotation: {x: 0, y: -0.7660445, z: 0, w: 0.64278764}
+      Scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+  - Path: third1_R/third2_R/third3_R
+    Value:
+      Position: {x: 0.000000076293944, y: 0, z: 0.016089782}
+      Rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+      Scale: {x: 0.9999998, y: 1, z: 0.99999976}
+  - Path: middle1_R
+    Value:
+      Position: {x: 0.005240173, y: -0.0015895497, z: 0.053014543}
+      Rotation: {x: -0.0161672, y: -0.5940004, z: 0.01863855, w: 0.8040863}
+      Scale: {x: 1, y: 1.0000002, z: 0.9999998}
+  - Path: middle1_R/middle2_R
+    Value:
+      Position: {x: 0.00000015258789, y: -0.0000000047683715, z: 0.030853424}
+      Rotation: {x: 0, y: -0.7660445, z: 0, w: 0.64278764}
+      Scale: {x: 1.0000001, y: 1, z: 1.0000001}
+  - Path: middle1_R/middle2_R/middle3_R
+    Value:
+      Position: {x: -0, y: 0, z: 0.01882923}
+      Rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+      Scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+  - Path: little1_R
+    Value:
+      Position: {x: -0.0014739227, y: 0.02239212, z: 0.048484135}
+      Rotation: {x: -0.03334919, y: -0.5935367, z: 0.10505314, w: 0.79722387}
+      Scale: {x: 0.99999994, y: 1, z: 1}
+  - Path: little1_R/little2_R
+    Value:
+      Position: {x: 0.000000076293944, y: 0, z: 0.019838829}
+      Rotation: {x: 0, y: -0.7660445, z: 0, w: 0.64278764}
+      Scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+  - Path: little1_R/little2_R/little3_R
+    Value:
+      Position: {x: 0.000000076293944, y: 0, z: 0.013443031}
+      Rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+      Scale: {x: 1.0000001, y: 1.0000002, z: 1}
+  - Path: fore1_R
+    Value:
+      Position: {x: 0.0050323484, y: -0.015297077, z: 0.052460764}
+      Rotation: {x: -0.030856678, y: -0.03181254, z: -0.00036354436, w: 0.9990174}
+      Scale: {x: 1, y: 1.0000001, z: 1.0000002}
+  - Path: fore1_R/fore2_R
+    Value:
+      Position: {x: -0, y: -0.0000000023841857, z: 0.026951065}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+      Scale: {x: 0.9999999, y: 1.0000001, z: 1.0000002}
+  - Path: fore1_R/fore2_R/fore3_R
+    Value:
+      Position: {x: -0, y: 0.0000000023841857, z: 0.017319374}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+      Scale: {x: 1, y: 1, z: 1.0000002}

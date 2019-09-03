@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 462a30e562d406241b0f88da8c156a02, type: 3}
+  m_Name: HandR_Open
+  m_EditorClassIdentifier: 
+  Values:
+  - Path: thumb0_R
+    Value:
+      Position: {x: -0.008030471, y: -0.015704226, z: 0.010159207}
+      Rotation: {x: 0.25163764, y: -0.18476513, z: 0.33451086, w: 0.8891811}
+      Scale: {x: 0.9999998, y: 1.0000001, z: 1}
+  - Path: thumb0_R/thumb1_R
+    Value:
+      Position: {x: -0.000000038146972, y: 0.000000076293944, z: 0.032389905}
+      Rotation: {x: -0.11996124, y: 0.050017294, z: -0.04972665, w: 0.9902701}
+      Scale: {x: 1.0000001, y: 1, z: 1.0000002}
+  - Path: thumb0_R/thumb1_R/thumb2_R
+    Value:
+      Position: {x: -0.000000076293944, y: 0, z: 0.021306152}
+      Rotation: {x: 0.000000014901158, y: -0.00000011920929, z: -0.0000000372529,
+        w: 1}
+      Scale: {x: 1, y: 0.99999994, z: 1.0000001}
+  - Path: third1_R
+    Value:
+      Position: {x: 0.0025170136, y: 0.011380888, z: 0.05264719}
+      Rotation: {x: -0.062195424, y: -0.01661503, z: 0.092262074, w: 0.99365157}
+      Scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+  - Path: third1_R/third2_R
+    Value:
+      Position: {x: 0.000000076293944, y: 0.000000019073486, z: 0.023841552}
+      Rotation: {x: 0.000000007450581, y: -0.00000013411042, z: 0.0000000149011585,
+        w: 1}
+      Scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+  - Path: third1_R/third2_R/third3_R
+    Value:
+      Position: {x: 0.000000076293944, y: 0, z: 0.016089782}
+      Rotation: {x: -0.000000007450581, y: -0.0000001639128, z: -1.2212455e-15, w: 1}
+      Scale: {x: 0.9999998, y: 1, z: 0.99999976}
+  - Path: middle1_R
+    Value:
+      Position: {x: 0.005240173, y: -0.0015895497, z: 0.053014543}
+      Rotation: {x: -0.002553191, y: -0.025374372, z: 0.024543447, w: 0.99937344}
+      Scale: {x: 1, y: 1.0000002, z: 0.9999998}
+  - Path: middle1_R/middle2_R
+    Value:
+      Position: {x: 0.00000015258789, y: -0.0000000047683715, z: 0.030853424}
+      Rotation: {x: -0.0000000018626454, y: -0.00000013411044, z: -0.0000000018626451,
+        w: 1}
+      Scale: {x: 1.0000001, y: 1, z: 1.0000001}
+  - Path: middle1_R/middle2_R/middle3_R
+    Value:
+      Position: {x: -0, y: 0, z: 0.01882923}
+      Rotation: {x: 1.3877789e-16, y: -0.00000014901163, z: 9.313226e-10, w: 1}
+      Scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+  - Path: little1_R
+    Value:
+      Position: {x: -0.0014739227, y: 0.02239212, z: 0.048484135}
+      Rotation: {x: -0.13939117, y: -0.010767042, z: 0.10196722, w: 0.9849146}
+      Scale: {x: 0.99999994, y: 1, z: 1}
+  - Path: little1_R/little2_R
+    Value:
+      Position: {x: 0.000000076293944, y: 0, z: 0.019838829}
+      Rotation: {x: 1.6653341e-15, y: -0.0000000745058, z: 0.00000002235174, w: 1}
+      Scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+  - Path: little1_R/little2_R/little3_R
+    Value:
+      Position: {x: 0.000000076293944, y: 0, z: 0.013443031}
+      Rotation: {x: -9.992005e-16, y: -0.00000013411044, z: -0.0000000074505797, w: 1}
+      Scale: {x: 1.0000001, y: 1.0000002, z: 1}
+  - Path: fore1_R
+    Value:
+      Position: {x: 0.0050323484, y: -0.015297077, z: 0.052460764}
+      Rotation: {x: 0.05633077, y: -0.031831067, z: 0.002413816, w: 0.9979017}
+      Scale: {x: 1, y: 1.0000001, z: 1.0000002}
+  - Path: fore1_R/fore2_R
+    Value:
+      Position: {x: -0, y: -0.0000000023841857, z: 0.026951065}
+      Rotation: {x: 0.000000006519257, y: -0.000000089406974, z: 9.313232e-10, w: 1}
+      Scale: {x: 0.9999999, y: 1.0000001, z: 1.0000002}
+  - Path: fore1_R/fore2_R/fore3_R
+    Value:
+      Position: {x: -0, y: 0.0000000023841857, z: 0.017319374}
+      Rotation: {x: -0.0000000037252903, y: -0.000000014901161, z: 0.000000007450581,
+        w: 1}
+      Scale: {x: 1, y: 1, z: 1.0000002}
